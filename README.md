@@ -15,27 +15,6 @@ This program requires the following libraries to run:
 
 You can install the required libraries using pip with the following command:
 
-csharp
-Copy code
-# README.md
-
-## Printer Test
-
-This program allows you to test printing with a selected printer on Windows operating system. You can print both text and image files with this program. 
-
-## Requirements
-
-This program requires the following libraries to run:
-- tkinter
-- ttk
-- PIL
-- win32ui
-- win32print
-
-## Installation
-
-You can install the required libraries using pip with the following command:
-
 ```pip install tkinter ttk Pillow pywin32```
 
 
